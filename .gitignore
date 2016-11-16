@@ -1,2 +1,4 @@
+Object/*
+!Object/*.uvopt
+!Object/*.uvproj
 /bin
-/Object
